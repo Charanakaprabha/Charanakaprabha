@@ -1,10 +1,6 @@
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/refs/heads/main/unicorn.gif" height="30px" width="30px"> I'm Charan Bheesetty</h1>
 
-<p align="center">
-  <a href="https://komarev.com/ghpvc/?username=charanakaprabha">
-    <img src="https://komarev.com/ghpvc/?username=charanakaprabha&label=Profile%20views&color=00FFFF&style=flat-square" alt="charanakaprabha's profile views" />
-  </a>
-</p>
+
 
 <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" alt="Banner" width="100%" />
 
